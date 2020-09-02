@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 import com.arcaneascent.ArcaneAscentWebapp.spellbook.*;
 
+//Spell Skim
 public class SpellSkim extends Spell {
 
 	public SpellSkim() {

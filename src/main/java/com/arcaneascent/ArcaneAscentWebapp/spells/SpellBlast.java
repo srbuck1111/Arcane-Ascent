@@ -2,7 +2,7 @@ package com.arcaneascent.ArcaneAscentWebapp.spells;
 
 import com.arcaneascent.ArcaneAscentWebapp.spellbook.*;
 
-//Blast(4): deal (4) damage
+//Blast(X): deal (X) damage
 public class SpellBlast extends Spell {
 	
 	public SpellBlast() {

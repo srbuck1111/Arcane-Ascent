@@ -40,7 +40,6 @@ public class Page {
 
 	public void cast(Book b) {
 		if (this.charged) {
-			// TODO choose or spell
 			if (!(this.orSpells.size() > 1)) {
 				this.orSpells.get(0).cast(b, this.pageNumber);
 			} else {

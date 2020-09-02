@@ -2,6 +2,8 @@ package com.arcaneascent.ArcaneAscentWebapp.spells;
 
 import com.arcaneascent.ArcaneAscentWebapp.spellbook.*;
 
+//Spell Scry(X) randomly selects X spells,
+//and casts them on your next upkeep.
 public class SpellScry extends Spell {
 
 	public SpellScry() {

@@ -2,6 +2,7 @@ package com.arcaneascent.ArcaneAscentWebapp.spells;
 
 import com.arcaneascent.ArcaneAscentWebapp.spellbook.*;
 
+//Spell Heal(X) heals X health. CAN overheal.
 public class SpellHeal extends Spell {
 	
 	public SpellHeal() {
