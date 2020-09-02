@@ -12,4 +12,5 @@ I'll... get back to you when the game works... :/
 ## Credits
 
 Lead Back-end Developer: Sean Buck \
+Lead Front-end Developer: Sean Buck (but may look for someone to tidy up) \
 Director: Noah Simpson
